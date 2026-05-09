@@ -18,4 +18,4 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayushv75&theme=dark&show_icons=true&locale=en&cache_seconds=86400" alt="ayushv75" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushv75&theme=github_dark" />
